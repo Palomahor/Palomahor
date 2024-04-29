@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, sou a Paloma</h1>
-<h3 align="center">Apaixonada por tecnologia culturas e inovações criativas</h3>
+<h3 align="center"> Apaixonada por tecnologia, culturas e tudo que envolve criatividade</h3>
 
 - 🔭 Atualmente **Trabalho com QA**
 
