@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, sou a Paloma</h1>
 <h3 align="center">Apaixonada por tecnologia culturas e inovações criativas</h3>
 
-- 🔭 Atualmente **estou trabalhando na área de garantia de qualidade**
+- 🔭 Atualmente **Trabalho com QA**
 
 - 💬 Pode me perguntar sobre: **sql, html e css, teste de qualidade, testes manuais e automação, métodos ágeis, JAVA,**
 
